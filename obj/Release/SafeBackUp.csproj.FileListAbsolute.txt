@@ -1,0 +1,9 @@
+E:\MyProjects\Backup\SafeBackUp\SafeBackUp\bin\Release\SafeBackUp.exe
+E:\MyProjects\Backup\SafeBackUp\SafeBackUp\bin\Release\SafeBackUp.pdb
+E:\MyProjects\Backup\SafeBackUp\SafeBackUp\obj\Release\SafeBackUp.csprojResolveAssemblyReference.cache
+E:\MyProjects\Backup\SafeBackUp\SafeBackUp\obj\Release\SafeBackUp.frmFileSelect.resources
+E:\MyProjects\Backup\SafeBackUp\SafeBackUp\obj\Release\SafeBackUp.Properties.Resources.resources
+E:\MyProjects\Backup\SafeBackUp\SafeBackUp\obj\Release\SafeBackUp.SafeBackUp.resources
+E:\MyProjects\Backup\SafeBackUp\SafeBackUp\obj\Release\SafeBackUp.csproj.GenerateResource.Cache
+E:\MyProjects\Backup\SafeBackUp\SafeBackUp\obj\Release\SafeBackUp.exe
+E:\MyProjects\Backup\SafeBackUp\SafeBackUp\obj\Release\SafeBackUp.pdb
